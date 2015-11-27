@@ -1,0 +1,22 @@
+{
+  "name": "localpeak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmcooper/LocalPeak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmcooper/LocalPeak/issues"
+  },
+  "homepage": "https://github.com/danmcooper/LocalPeak#readme",
+  "scripts": {
+    "start": "live-server"
+  }
+}
